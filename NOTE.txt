@@ -1,0 +1,5 @@
+here is to tell you that when creating a project or something like that, the logic, i.e the main.go 
+should be sepearted from the supporting .go files
+
+The functions and probably other readMe files should be in a different folder.
+THANKS FOR YOUR ATTENTION 
